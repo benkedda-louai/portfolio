@@ -1,0 +1,10 @@
+.radius {
+    position: absolute;
+    width: 168px;
+    height: 168px;
+    left: 1356px;
+    top: 223px;
+    background: rgba(28, 156, 198, 0.75);
+    filter: blur(180px);
+    border-radius: 50%;
+}
